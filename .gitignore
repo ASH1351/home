@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Production build
+dist
+
+# Temporary test directories
+.chrome_temp
+.chrome_verify_temp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
